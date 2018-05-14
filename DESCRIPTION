@@ -1,8 +1,8 @@
 Package: ph2hetero
 Type: Package
-Title: Adaptive Designs for Two-Stage Phase II Studies
-Version: 1.0.1
-Date: 2018-05-02
+Title: Stratified Adaptive Designs for Two-Stage Phase II Studies
+Version: 1.0.2
+Date: 2018-05-14
 Authors@R: c(
     person("Patrick", "Sfumato", , "sfumatop@gmail.com", role = c("aut", "cre")),
     person("Thomas", "Filleron", role = "aut"),
@@ -22,7 +22,7 @@ Depends: mvtnorm, clinfun, R (>= 3.0.3)
 License: GPL
 SystemRequirements: GNU make
 LazyLoad: yes
-Packaged: 2018-05-02 07:12:35 UTC; SFUMATOP
+Packaged: 2018-05-14 07:20:35 UTC; SFUMATOP
 Author: Patrick Sfumato [aut, cre],
   Thomas Filleron [aut],
   Bastien Cabarrou [aut],
@@ -38,4 +38,4 @@ Author: Patrick Sfumato [aut, cre],
 Maintainer: Patrick Sfumato <sfumatop@gmail.com>
 NeedsCompilation: yes
 Repository: CRAN
-Date/Publication: 2018-05-02 20:07:05 UTC
+Date/Publication: 2018-05-14 11:11:29 UTC

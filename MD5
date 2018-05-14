@@ -1,14 +1,14 @@
-3890b551ab378242f3b6ad49b95db2ff *DESCRIPTION
+72738cca01a595d57819381de8add2a2 *DESCRIPTION
 dfd62573216ad3be5c1a664a558e8f3f *NAMESPACE
 822212b3c3b2b5964abc1826befd7463 *R/design.jones.R
 5b42d02f848cc9017718c39f20192444 *R/design.parashar.R
 2e5dda6f88f813744e57fb2530667a27 *R/design.tournoux.R
 4ec02cda2ef3dbf4638a7b810470822d *R/onload.R
-e87aa3916074a1f81ec246b5504994c0 *inst/CITATION
+9f9fdfa0cd25126f4b3d4e68b56f80ce *inst/CITATION
 d9603ef404a59ea056705f9bace19e3d *man/design.jones.Rd
 388809cc8da7353338e74c616dc18773 *man/design.tournoux.Rd
 e68920b30c1b20fa16413bdf6aabbdf8 *man/desing.parashar.Rd
-e4a027240d68ae65267b5430fd3e3bc0 *src/Makevars
+c8c6e942a83d4f468d78fa959d6279cb *src/Makevars
 7ab70dffe8d34563607d644e2b7d9c32 *src/Makevars.win
 5362ed41a42ce34cf7817f6bfd988935 *src/algorithm.h
 80eab6b8072ae34de6c192af41324093 *src/datablock.h
